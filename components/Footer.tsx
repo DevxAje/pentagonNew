@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500">
           <p>&copy; {new Date().getFullYear()} Pentagon UK Property Management Ltd. All rights reserved.</p>
-          <p>Registered in England & Wales No. 12345678</p>
+          <p>Registered in England & Wales No. 13865855</p>
         </div>
       </div>
     </footer>
